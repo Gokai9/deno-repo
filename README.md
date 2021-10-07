@@ -2,8 +2,8 @@
 Repositori ini dibuat untuk menyimpan hasil codingan yang berhubungan dengan deno. Sejujurnya saya merasa kurang semangat koding jika kemampuan tidak naik naik, mungkin kemampuan saya naik tapi tidak merasakannya.
 Tulisan ini saya buat sebagai pengingat dimasa depan untuk membandingkan kemampuan coding saya sekarang dan masa depan.
 
-![alt text](./deno.svg)
-<img src="./deno.svg">
+![alt text](./Deno.svg)
+<img src="./Deno.svg">
 
 
 ## Catatan
